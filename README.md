@@ -2,7 +2,7 @@
 This the description of task in Future Intern
 Task-3: Visualization using Histogram (Iris Flower dataset)
 
-Steps to Create a Histogram in Excel:
+Steps to Create a Histogram in Excel-
 
 Open Excel: Start by opening your Excel spreadsheet with the Iris dataset.
 
